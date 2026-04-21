@@ -1,5 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/26933190/README.2.md)
-
 # Project-management-system
 
 This is a full-stack Project Management System built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The application allows admins to manage projects and assign tasks to developers, while developers can view and update their assigned tasks.
@@ -30,19 +28,16 @@ This project was developed with the assistance of modern AI tools to improve pro
 ChatGPT (OpenAI)
 Used for generating code, debugging issues, understanding concepts, and improving overall development speed.
 
+# Screenshots
+
+<img width="621" height="431" alt="login page" src="https://github.com/user-attachments/assets/e3a4e97c-be70-448c-8cf2-4a43c042f08a" />
+
+<img width="655" height="550" alt="register page" src="https://github.com/user-attachments/assets/0b800e28-97e0-4dc0-a580-dad702830e79" />
+
+<img width="566" height="279" alt="admin page" src="https://github.com/user-attachments/assets/bcaa4180-e1a1-4c52-8222-502379c29ca2" />
+
 
 
 
   
     
-## Screenshots
-
-
-![Alt Text](<img width="621" height="431" alt="login page" src="https://github.com/user-attachments/assets/5471fb5d-0b49-40af-b48f-a48398b1894a" />
-)
-
-![Alt Text](<img width="655" height="550" alt="register page" src="https://github.com/user-attachments/assets/9e3b939f-757a-488c-8e83-d82576346d48" />
-)
-
-![Alt Text](<img width="566" height="279" alt="admin page" src="https://github.com/user-attachments/assets/bb44d6ef-25f5-4107-be01-f37fb144a891" />
-)
