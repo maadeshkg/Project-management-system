@@ -36,7 +36,8 @@ Used for generating code, debugging issues, understanding concepts, and improvin
 <img width="655" height="550" alt="register page" src="https://github.com/user-attachments/assets/0b800e28-97e0-4dc0-a580-dad702830e79" />
 
 
-<img width="566" height="279" alt="admin page" src="https://github.com/user-attachments/assets/bcaa4180-e1a1-4c52-8222-502379c29ca2" />
+<img width="566" height="279" alt="admin page" src="https://github.com/user-attachments/assets/57b21769-979a-4ffb-82cd-21216e56588e" />
+
 
 
 
