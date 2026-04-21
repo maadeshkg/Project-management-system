@@ -26,20 +26,20 @@ This project was developed with the assistance of modern AI tools to improve pro
 ChatGPT (OpenAI)
 Used for generating code, debugging issues, understanding concepts, and improving overall development speed.
 
-## Frontend setup and Installation packages
+## Frontend setup and Installation packages 
 ```bash
 cd frontend
 npm install
 npm i axios react-router-dom
 npm start
-
+```
 ## Backend setup and Installation packages
 ```bash
 cd backend
 npm install
 npm i npm install express mongoose cors dotenv jsonwebtoken bcryptjs
 node server.js
-
+```
 # Screenshots
 
 <img width="621" height="431" alt="login page" src="https://github.com/user-attachments/assets/e3a4e97c-be70-448c-8cf2-4a43c042f08a" />
