@@ -4,8 +4,6 @@ This is a full-stack Project Management System built using the MERN stack (Mongo
 
 # Features
 
-
-
 * User Authentication (Login/Register with JWT)
 * Admin Dashboard
 Create, update, and delete projects
@@ -27,6 +25,20 @@ This project was developed with the assistance of modern AI tools to improve pro
 
 ChatGPT (OpenAI)
 Used for generating code, debugging issues, understanding concepts, and improving overall development speed.
+
+## Frontend setup and Installation packages
+```bash
+cd frontend
+npm install
+npm i axios react-router-dom
+npm start
+
+## Backend setup and Installation packages
+```bash
+cd backend
+npm install
+npm i npm install express mongoose cors dotenv jsonwebtoken bcryptjs
+node server.js
 
 # Screenshots
 
